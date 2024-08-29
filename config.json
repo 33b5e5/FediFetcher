@@ -1,6 +1,9 @@
 {
   "server": "puddle.town",
+  "from-notifications": 1,
   "home-timeline-length": 200,
-  "max-followings": 80,
-  "from-notifications": 1
+  "max-favourites": 40,
+  "max-followers": 80,
+  "max-followings": 80,  
+  "remember-hosts-for-days": 7
 }
